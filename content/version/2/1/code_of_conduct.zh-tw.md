@@ -49,9 +49,9 @@ aliases = ["/version/2/1/tw"]
 
 社群的所有領導者都有義務尊重任一事件檢舉者的隱私和安全。
 
-## 執行方針
+## 執行指引
 
-社群領導者將遵循下列社群處理方針來決定他們所認定違反本行為準則的行為的后果：
+社群領導者將遵循下列社群影響指引來決定他們所認定違反本行為準則的行為的后果：
 
 ### 1. 糾正
 
@@ -81,7 +81,7 @@ aliases = ["/version/2/1/tw"]
 
 本行為準則改編自 [Contributor Covenant][homepage] 2.1 版，可取得於 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1]。
 
-社群處理方針靈感來源於 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
+社群影響指引靈感來源於 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
 
 有關本行為準則的常見問題的答案，參見 [https://www.contributor-covenant.org/faq][FAQ]。
 其他語言翻譯可取得於 [https://www.contributor-covenant.org/translations][translations]。
