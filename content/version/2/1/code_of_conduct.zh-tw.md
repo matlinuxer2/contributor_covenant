@@ -81,7 +81,7 @@ aliases = ["/version/2/1/tw"]
 
 本行為準則改編自 [Contributor Covenant][homepage] 2.1 版，可取得於 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1]。
 
-社群影響指引靈感來源於 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
+社群影響指引是啟發自 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
 
 有關本行為準則的常見問題的答案，參見 [https://www.contributor-covenant.org/faq][FAQ]。
 其他語言翻譯可取得於 [https://www.contributor-covenant.org/translations][translations]。
