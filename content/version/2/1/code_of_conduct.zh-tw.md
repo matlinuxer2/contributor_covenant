@@ -76,7 +76,7 @@ aliases = ["/version/2/1/tw"]
 
 **處理意見**永久禁止在社群內進行任何形式的公開互動。
 
-## 參見
+## 來源標示
 
 本行為準則改編自 [Contributor Covenant][homepage] 2.1 版, 可取得於 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1]。
 
